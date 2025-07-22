@@ -1,0 +1,16 @@
+{
+  "cloudinary": {
+    "cloud_name": "dpv1ulroy",
+    "api_key": "753843896383315",
+    "api_secret": "MSmNF__TeFRS97eghntdWZksArE",
+    "upload_preset": "motion"
+  },
+  "email": {
+    "sender_email": "motiondectedobject@gmail.com",
+    "app_password": "fybi zhsv hthk vvbh",
+    "receiver_email": "patelram5002@gmail.com"
+  },
+  "sheets": {
+    "spreadsheet_id": "15PT_B3WzNI7LzglQRso5f2TfivfrUWa7b5qfBCq7v6w"
+  }
+}
